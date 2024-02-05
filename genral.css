@@ -1,0 +1,11 @@
+body{
+    margin: 10px;
+    padding-top: 80px;
+    padding-left: 90px;
+}
+.search{
+    display: block;
+}
+p{
+    font-family: 'Roboto',Arial;
+}

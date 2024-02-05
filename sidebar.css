@@ -1,0 +1,33 @@
+.sidebar{
+    width: 75px;
+    position: fixed;
+    background-color: white;
+    top: 65px;
+    bottom: 0%;
+    left: 0%; 
+    z-index: 200;
+    cursor: pointer;
+}
+.sideall{
+    margin: 8px;
+}
+.slide{
+    
+    height: 75px;
+    background-color: white;
+    text-align: center;
+    flex-direction:column; 
+}
+.slide:hover{
+    background-color: rgb(206, 206, 206);
+}
+.img{
+    height: 25px;
+    width: 25px;
+    
+}
+
+#text{
+    font-size: 10px;
+    margin-top: 5px;
+}
